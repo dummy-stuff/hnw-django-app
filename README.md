@@ -1,5 +1,8 @@
 # Hack And Write Django Project
 
+## Wireframes
+Find the wireframes [here](https://www.figma.com/file/2D6B2eiCdRwO4VcTZCzxNi/Matoa-Website-Redesign-Community?node-id=48%3A0)
+
 ## GETTING STARTED
 
 **Clone the repository into a folder, you can swap `<your_folder>` with any name of your choice, do not include the comparison signs as they are text placeholder operators**
